@@ -1,0 +1,6 @@
+{
+  "name": "ColorPalette - AI Personal Color Analysis",
+  "description": "Professional Personal Color Analysis using AI. Upload a photo to discover your skin tone, seasonal type, and recommended color palette.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
